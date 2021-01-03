@@ -1,2 +1,2 @@
-# Class37
-car racing game
+# synchronousBallMovement
+Ball moving synchronously
